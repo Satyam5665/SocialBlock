@@ -1,0 +1,12 @@
+  .sidebarOption:hover {
+    background-color:#0d58ae;
+    border-radius: 30px;
+    transition: color 100ms ease-out;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    translate: 12px;
+  }
+  
+  .sidebarOption > .MuiSvgIcon-root {
+    color: rgb(189, 224, 255);
+  }
+  
